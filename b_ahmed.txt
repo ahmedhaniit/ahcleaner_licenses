@@ -1,0 +1,3 @@
+username: b
+password: ahmed
+expires: 2026-01-01
